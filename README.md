@@ -46,11 +46,12 @@ flask run
 ├── model/
 
 │   └── knn_model.pkl
-
-    └── tfidf_vectorizer.pkl
-
-    └── indian_food.csv
+     
+   └── tfidf_vectorizer.pkl
+   
+   └── indian_food.csv
     
+   
 ├── templates/
 
 │   └── index.html
