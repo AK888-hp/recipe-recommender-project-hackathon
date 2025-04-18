@@ -25,7 +25,7 @@ Dataset: Custom Indian food dataset (CSV)
 ## Clone the repo
 
 git clone https://github.com/AK888-hp/recipe-recommender-project-hackathon.git
-cd your-repo-name
+cd recipe-recommender-project-hackathon
 
 ## Create a virtual environment
 
