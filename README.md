@@ -42,16 +42,27 @@ flask run
 
 ### Project Structure
 ├── app.py
+
 ├── model/
+
 │   └── knn_model.pkl
+
+    └── tfidf_vectorizer.pkl
+
+    └── indian_food.csv
+    
 ├── templates/
+
 │   └── index.html
+
 ├── static/
+
 │   └── styles.css
-├── data/
-│   └── indian_food.csv
+
 ├── requirements.txt
+
 ├── .env.example
+
 └── README.md
 
 ### Dataset Info
