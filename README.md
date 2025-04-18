@@ -30,7 +30,7 @@ cd recipe-recommender-project-hackathon
 ## Create a virtual environment
 
 python -m venv venv
-source venv/bin/activate  # on Windows: venv\Scripts\activate
+venv\Scripts\activate
 
 ## Install dependencies
 
