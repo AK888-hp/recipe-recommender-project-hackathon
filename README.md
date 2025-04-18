@@ -1,4 +1,4 @@
-### Recipe Recommendation System
+## Recipe Recommendation System
 An AI-powered recipe predictor that recommends Indian dishes based on ingredients and recipe attributes. Built using Flask, KNN, and a custom Indian food dataset.
 
 ### Features
@@ -22,21 +22,21 @@ Dataset: Custom Indian food dataset (CSV)
 
 
 ###  Setup Instructions
-## Clone the repo
+#### Clone the repo
 
 git clone https://github.com/AK888-hp/recipe-recommender-project-hackathon.git
 cd recipe-recommender-project-hackathon
 
-## Create a virtual environment
+#### Create a virtual environment
 
 python -m venv venv
 venv\Scripts\activate
 
-## Install dependencies
+#### Install dependencies
 
 pip install -r requirements.txt
 
-## Run the app
+#### Run the app
 
 flask run
 
